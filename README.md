@@ -3,7 +3,7 @@ I am Christian de Guzman, a crurrent student at University of Maryland, Baltimor
 
 Contact Info: <br>
 email: ccarlodg@gmail.com <br>
-LinkedIn: [https://www.linkedin.com/in/cc-deguzman/]([url](https://www.linkedin.com/in/cc-deguzman/))
+LinkedIn: [Click Here](https://www.linkedin.com/in/cc-deguzman/)
 
 <!--
 **ccdeguzman/ccdeguzman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
