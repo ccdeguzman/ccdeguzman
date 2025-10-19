@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hello World!👋
+I am Christian de Guzman, a crurrent student at University of Maryland, Baltimore County (UMBC). I am pursuing a degree in Computer Science-Cybersecurity. 
+
+Contact Info:
+email: ccarlodg@gmail.com
 
 <!--
 **ccdeguzman/ccdeguzman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
