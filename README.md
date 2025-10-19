@@ -1,8 +1,8 @@
-## Hello World!👋
+# Hello World!👋
 I am Christian de Guzman, a crurrent student at University of Maryland, Baltimore County (UMBC). I am pursuing a degree in Computer Science-Cybersecurity. 
 
 Contact Info: <br>
-email: ccarlodg@gmail.com
+email: ccarlodg@gmail.com <br>
 LinkedIn: [LinkedIn]([https://pages.github.com/](https://www.linkedin.com/in/cc-deguzman/)
 
 <!--
