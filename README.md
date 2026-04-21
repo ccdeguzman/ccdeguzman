@@ -13,13 +13,13 @@ School Email: cdeguzm1@umbc.edu <br>
 ## 🧑‍💻 Skills 
 <p align="center">
   <a href="https://en.cppreference.com/w/">
-    <img src="https://img.shields.io/badge/C%2B%2B-blue?logo=cplusplus" />
+    <img src="https://img.shields.io/badge/C%2B%2B-blue?logo=cplusplus" style="margin: 5px;"/>
   </a>
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
-    <img src="https://img.shields.io/badge/C-darkblue?logo=C" />
+    <img src="https://img.shields.io/badge/C-darkblue?logo=C" style="margin: 5px;"/>
   </a>
   <a href="https://www.python.org/">
-    <img src="https://img.shields.io/badge/Python-%23FFD43B?logo=python" />
+    <img src="https://img.shields.io/badge/Python-%23FFD43B?logo=python" style="margin: 5px;"/>
   </a>
 </p>
 
