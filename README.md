@@ -30,6 +30,9 @@ School Email: cdeguzm1@umbc.edu <br>
   <a href="https://www.postgresql.org/">
     <img src="https://img.shields.io/badge/PostreSQL-%23336791?logo=postgresql&logoColor=white" style="margin: 5px;"/>
   </a>
+  <a href="https://en.wikipedia.org/wiki/JavaScript">
+    <img src="https://img.shields.io/badge/Java%2FJavaScript-orange?logo=javascript" style="margin: 5px;"/>
+  </a>
 </p>
 
 <!--
