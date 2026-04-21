@@ -1,10 +1,24 @@
-# Hello World!👋
+# 🌎 Hello World!👋
 I am Christian Carlo Eyana de Guzman, a current student at University of Maryland, Baltimore County (UMBC). I am pursuing a degree in Computer Science-Cybersecurity. 
 
-Contact Info: <br>
+---
+
+## ✉️ Contact Info: <br>
 LinkedIn: [Click Here](https://www.linkedin.com/in/cc-deguzman/) <br>
 Email: ccarlodg@gmail.com <br>
 School Email: cdeguzm1@umbc.edu <br>
+
+---
+
+## 🧑‍💻 Skills 
+<p align="center">
+  <a href=![Static Badge](https://img.shields.io/badge/C%2FC%2B%2B-blue)
+    <img src="https://img.shields.io/badge/C%2FC%2B%2B-blue" />
+  </a>
+</p>
+
+
+![Static Badge](https://img.shields.io/badge/C%2FC%2B%2B-blue)
 
 <!--
 **ccdeguzman/ccdeguzman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
