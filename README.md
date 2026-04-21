@@ -13,28 +13,28 @@ School Email: cdeguzm1@umbc.edu <br>
 ## 🧑‍💻 Skills 
 <p align="center">
   <a href="https://en.cppreference.com/w/">
-    <img src="https://img.shields.io/badge/C%2B%2B-blue?logo=cplusplus" style="margin: 5px;"/>
+    <img src="https://img.shields.io/badge/C%2B%2B-blue?logo=cplusplus" style="margin:5px;"/>
   </a>
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
-    <img src="https://img.shields.io/badge/C-darkblue?logo=C" style="margin: 5px;"/>
+    <img src="https://img.shields.io/badge/C-darkblue?logo=C" style="margin:5px;"/>
   </a>
   <a href="https://www.python.org/">
-    <img src="https://img.shields.io/badge/Python-%23FFD43B?logo=python" style="margin: 5px;"/>
+    <img src="https://img.shields.io/badge/Python-%23FFD43B?logo=python" style="margin:5px;"/>
   </a>
   <a href="https://en.wikipedia.org/wiki/Linux">
-    <img src="https://img.shields.io/badge/Linux-gray?logo=linux&logoColor=white" style="margin: 5px;"/>
+    <img src="https://img.shields.io/badge/Linux-gray?logo=linux&logoColor=white" style="margin:5px;"/>
   </a>
   <a href="https://sqlite.org/">
-    <img src="https://img.shields.io/badge/SQLite-Teal?logo=sqlite" style="margin: 5px;"/>
+    <img src="https://img.shields.io/badge/SQLite-Teal?logo=sqlite" style="margin:5px;"/>
   </a>
   <a href="https://www.postgresql.org/">
-    <img src="https://img.shields.io/badge/PostreSQL-%23336791?logo=postgresql&logoColor=white" style="margin: 5px;"/>
+    <img src="https://img.shields.io/badge/PostreSQL-%23336791?logo=postgresql&logoColor=white" style="margin:5px;"/>
   </a>
   <a href="https://en.wikipedia.org/wiki/JavaScript">
-    <img src="https://img.shields.io/badge/Java%2FJavaScript-orange?logo=javascript" style="margin: 5px;"/>
+    <img src="https://img.shields.io/badge/Java%2FJavaScript-orange?logo=javascript" style="margin:5px;"/>
   </a>
   <a href="https://en.wikipedia.org/wiki/HTML">
-    <img src="https://img.shields.io/badge/HTML-%23FF5733?logo=html5&logoColor=white" style="margin: 5px;" />
+    <img src="https://img.shields.io/badge/HTML-%23FF5733?logo=html5&logoColor=white" style="margin:5px;" />
   </a>
 
 </p>
