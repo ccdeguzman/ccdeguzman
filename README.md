@@ -15,11 +15,10 @@ School Email: cdeguzm1@umbc.edu <br>
   <a href=![Static Badge](https://img.shields.io/badge/C%2B%2B-blue?logo=cplusplus))
     <img src="https://img.shields.io/badge/C%2B%2B-blue?logo=cplusplus" />
   </a>
-    <a href=![Static Badge](https://img.shields.io/badge/C-darkblue?logo=C))
+  <a href=![Static Badge](https://img.shields.io/badge/C-darkblue?logo=C))
     <img src="https://img.shields.io/badge/C-darkblue?logo=C" />
   </a>
-    </a>
-    <a href=![Static Badge](https://img.shields.io/badge/Python-%23FFD43B?logo=python))
+  <a href=![Static Badge](https://img.shields.io/badge/Python-%23FFD43B?logo=python))
     <img src="https://img.shields.io/badge/Python-%23FFD43B?logo=python" />
   </a>
 </p>
