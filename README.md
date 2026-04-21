@@ -33,6 +33,10 @@ School Email: cdeguzm1@umbc.edu <br>
   <a href="https://en.wikipedia.org/wiki/JavaScript">
     <img src="https://img.shields.io/badge/Java%2FJavaScript-orange?logo=javascript" style="margin: 5px;"/>
   </a>
+  <a href="https://en.wikipedia.org/wiki/HTML">
+    <img src="https://img.shields.io/badge/HTML-%23FF5733?logo=html5&logoColor=white" style="margin: 5px;" />
+  </a>
+
 </p>
 
 <!--
