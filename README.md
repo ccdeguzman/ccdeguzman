@@ -25,7 +25,7 @@ School Email: cdeguzm1@umbc.edu <br>
     <img src="https://img.shields.io/badge/Linux-gray?logo=linux&logoColor=white" style="margin: 5px;"/>
   </a>
   <a href="https://sqlite.org/">
-    <img src="https://img.shields.io/badge/SQLITE-Teal?logo=sqlite" style="margin: 5px;"/>
+    <img src="https://img.shields.io/badge/SQLite-Teal?logo=sqlite" style="margin: 5px;"/>
   </a>
 </p>
 
