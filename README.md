@@ -21,10 +21,10 @@ School Email: cdeguzm1@umbc.edu <br>
   <a href="https://www.python.org/">
     <img src="https://img.shields.io/badge/Python-%23FFD43B?logo=python" style="margin: 5px;"/>
   </a>
-    <a href="https://en.wikipedia.org/wiki/Linux">
+  <a href="https://en.wikipedia.org/wiki/Linux">
     <img src="https://img.shields.io/badge/Linux-gray?logo=linux&logoColor=white" style="margin: 5px;"/>
   </a>
-    <a href="https://sqlite.org/">
+  <a href="https://sqlite.org/">
     <img src=" https://img.shields.io/badge/SQLITE-Teal?logo=sqlite" style="margin: 5px;"/>
   </a>
 </p>
