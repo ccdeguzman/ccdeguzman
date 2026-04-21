@@ -27,6 +27,9 @@ School Email: cdeguzm1@umbc.edu <br>
   <a href="https://sqlite.org/">
     <img src="https://img.shields.io/badge/SQLite-Teal?logo=sqlite" style="margin: 5px;"/>
   </a>
+  <a href="https://www.postgresql.org/">
+    <img src="https://img.shields.io/badge/PostreSQL-%23336791?logo=postgresql&logoColor=white" style="margin: 5px;"/>
+  </a>
 </p>
 
 <!--
