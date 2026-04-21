@@ -21,8 +21,8 @@ School Email: cdeguzm1@umbc.edu <br>
   <a href="https://www.python.org/">
     <img src="https://img.shields.io/badge/Python-%23FFD43B?logo=python" style="margin: 5px;"/>
   </a>
-    <a href="https://www.python.org/](https://en.wikipedia.org/wiki/Linux">
-    <img src="https://img.shields.io/badge/Python-%23FFD43B?logo=python](https://img.shields.io/badge/Linux-gray?logo=linux&logoColor=white" style="margin: 5px;"/>
+    <a href="https://en.wikipedia.org/wiki/Linux">
+    <img src="https://img.shields.io/badge/Linux-gray?logo=linux&logoColor=white" style="margin: 5px;"/>
   </a>
 </p>
 
