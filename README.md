@@ -23,9 +23,6 @@ School Email: cdeguzm1@umbc.edu <br>
   </a>
 </p>
 
-
-![Static Badge](https://img.shields.io/badge/C%2FC%2B%2B-blue)
-
 <!--
 **ccdeguzman/ccdeguzman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
