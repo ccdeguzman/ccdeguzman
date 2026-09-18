@@ -1,5 +1,5 @@
 # 🌎 Hello World!👋
-I am Christian Carlo Eyana de Guzman, a current student at University of Maryland, Baltimore County (UMBC). I am pursuing a degree in Computer Science-Cybersecurity. 
+I am Christian Carlo Eyana de Guzman, a Computer Science student at University of Maryland, Baltimore County (UMBC). I am always working on new projects so come check them out!
 
 ---
 
