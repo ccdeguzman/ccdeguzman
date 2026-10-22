@@ -10,7 +10,7 @@ School Email: cdeguzm1@umbc.edu <br>
 
 ---
 
-## 🚀 Currently Working On
+## 👨🏻‍💻 Currently Working On
 
 <!-- CURRENT_PROJECT:START -->
 ### [Threat Intelligence & Attack-Path Platform](https://github.com/ccdeguzman/Air-Gapped-Threat-Intel-Platform)
