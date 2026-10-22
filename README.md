@@ -66,6 +66,18 @@ A machine learning model that detects network instructions (cyberattacks in netw
 <a href="https://en.wikipedia.org/wiki/HTML">
 <img src="https://img.shields.io/badge/HTML-%23FF5733?logo=html5&logoColor=white" />
 </a>
+<a href="https://www.docker.com/">
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
+</a>
+<a href="https://qdrant.tech/">
+  <img src="https://img.shields.io/badge/Qdrant-DC244C?logo=qdrant&logoColor=white" />
+</a>
+<a href="https://neo4j.com/">
+  <img src="https://img.shields.io/badge/Neo4j-4581C3?logo=neo4j&logoColor=white" />
+</a>
+<a href="https://www.postman.com/">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" />
+</a>
 </p>
 
 <!--
