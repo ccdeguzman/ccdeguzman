@@ -10,6 +10,20 @@ School Email: cdeguzm1@umbc.edu <br>
 
 ---
 
+## 🚀 Currently Working On
+
+<!-- CURRENT_PROJECT:START -->
+This section is automatically generated.
+<!-- CURRENT_PROJECT:END -->
+
+## 🔥 Recently Active Repositories
+
+<!-- RECENT_REPOS:START -->
+This section is automatically generated.
+<!-- RECENT_REPOS:END -->
+
+---
+
 ## 🧑‍💻 Skills 
 <p align="center">
 <a href="https://en.cppreference.com/w/">
