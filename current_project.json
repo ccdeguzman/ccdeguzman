@@ -1,0 +1,32 @@
+
+{
+  "projects": [
+  {
+    "name": "Threat Intelligence & Attack-Path Platform",
+    "repository": "ccdeguzman/Air-Gapped-Threat-Intel-Platform",
+    "description": "Building an Offline threat-intel platform: NVD CVEs, CISA KEV, MITRE ATT&CK & CWE in Neo4j, with Ollama + Qdrant mapping report text to attacker techniques.",
+    "technologies": [
+      "Python",
+      "FastAPI",
+      "Qdrant",
+      "Neo4j",
+      "Docker"
+    ],
+    "status": "In Progress"
+  },
+  {
+    "name": "Adversarial Attack & Defense on ML-Based Network Intrusion Detection",
+    "repository": "ccdeguzman/Adversarial-Attack-Defense-on-ML-Based-Network-Intrusion-Detection",
+    "description": "A machine learning model that detects network instructions (cyberattacks in network traffic). Attack the model itself using adversarial techniques and then fix it.",
+    "technologies": [
+      "Python",
+      "PyTorch",
+      "scikit-learn",
+      "pandas",
+      "NumPy"
+    ],
+    "status": "Adding more features"
+  }
+  ]
+}
+
