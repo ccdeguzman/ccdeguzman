@@ -31,11 +31,11 @@ A machine learning model that detects network instructions (cyberattacks in netw
 ## 🔥 Recently Active Repositories
 
 <!-- RECENT_REPOS:START -->
-- [ccdeguzman/Air-Gapped-Threat-Intel-Platform](https://github.com/ccdeguzman/Air-Gapped-Threat-Intel-Platform) — Offline threat-intel platform: NVD CVEs, CISA KEV, MITRE ATT&CK & CWE in Neo4j, with Ollama + Qdrant mapping report text to attacker techniques. (Last push: 2026-10-22)
+- [ccdeguzman/Adversarial-Attack-Defense-on-ML-Based-Network-Intrusion-Detection](https://github.com/ccdeguzman/Adversarial-Attack-Defense-on-ML-Based-Network-Intrusion-Detection) — A machine learning model that detects network instructions (cyberattacks in network traffic). Attack the model itself using adversarial techniques and then fix it. (Last push: 2026-10-23)
+- [ccdeguzman/Air-Gapped-Threat-Intel-Platform](https://github.com/ccdeguzman/Air-Gapped-Threat-Intel-Platform) — Offline threat-intel platform: NVD CVEs, CISA KEV, MITRE ATT&CK & CWE in Neo4j, with Ollama + Qdrant mapping report text to attacker techniques. (Last push: 2026-10-23)
 - [ccdeguzman/Dev-Ops-Fundamentals](https://github.com/ccdeguzman/Dev-Ops-Fundamentals) — Repository for learning Dev Ops Fundamentals (Last push: 2026-10-02)
 - [ccdeguzman/DSA-Leetcode-Solutions](https://github.com/ccdeguzman/DSA-Leetcode-Solutions) — Repository for Leetcode solutions (Last push: 2026-10-01)
 - [ccdeguzman/Intro-to-Machine-Learning](https://github.com/ccdeguzman/Intro-to-Machine-Learning) — A repository for CMSC 478 - Intro to Machine Learning Course at UMBC (Last push: 2026-09-23)
-- [ccdeguzman/Adversarial-Attack-Defense-on-ML-Based-Network-Intrusion-Detection](https://github.com/ccdeguzman/Adversarial-Attack-Defense-on-ML-Based-Network-Intrusion-Detection) — A machine learning model that detects network instructions (cyberattacks in network traffic). Attack the model itself using adversarial techniques and then fix it. (Last push: 2026-09-23)
 <!-- RECENT_REPOS:END -->
 
 ---
