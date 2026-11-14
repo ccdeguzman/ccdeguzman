@@ -31,7 +31,7 @@ A machine learning model that detects network instructions (cyberattacks in netw
 ## 🔥 Recently Active Repositories
 
 <!-- RECENT_REPOS:START -->
-- [ccdeguzman/Dev-Ops-Fundamentals](https://github.com/ccdeguzman/Dev-Ops-Fundamentals) — Repository for learning Dev Ops Fundamentals (Last push: 2026-11-11)
+- [ccdeguzman/Dev-Ops-Fundamentals](https://github.com/ccdeguzman/Dev-Ops-Fundamentals) — Repository for learning Dev Ops Fundamentals (Last push: 2026-11-14)
 - [ccdeguzman/Air-Gapped-Threat-Intel-Platform](https://github.com/ccdeguzman/Air-Gapped-Threat-Intel-Platform) — Offline threat-intel platform: NVD CVEs, CISA KEV, MITRE ATT&CK & CWE in Neo4j, with Ollama + Qdrant mapping report text to attacker techniques. (Last push: 2026-11-06)
 - [ccdeguzman/Adversarial-Attack-Defense-on-ML-Based-Network-Intrusion-Detection](https://github.com/ccdeguzman/Adversarial-Attack-Defense-on-ML-Based-Network-Intrusion-Detection) — A machine learning model that detects network instructions (cyberattacks in network traffic). Attack the model itself using adversarial techniques and then fix it. (Last push: 2026-10-23)
 - [ccdeguzman/DSA-Leetcode-Solutions](https://github.com/ccdeguzman/DSA-Leetcode-Solutions) — Repository for Leetcode solutions (Last push: 2026-10-01)
